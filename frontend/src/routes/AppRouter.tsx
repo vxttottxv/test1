@@ -1,0 +1,2 @@
+// routes/AppRouter.tsx
+export {};
